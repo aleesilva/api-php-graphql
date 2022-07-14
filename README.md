@@ -1,4 +1,12 @@
-## Simple api Laravel + Graphql
+## Simple api 
+<img 
+ width="40"
+ height= "40"
+ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/> + <img 
+ width="40"
+ height= "40"
+ src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"
+ />
 
 ### A simple api in graphql using laravel + graphql 
 ### Using the graphql lib https://github.com/rebing/graphql-laravel
